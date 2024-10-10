@@ -2,6 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
@@ -16,38 +17,47 @@
 
         <Button
             android:id="@+id/btn0"
-            style="@style/ButtonStyle" />
+            style="@style/ButtonStyle"
+            android:background="@android:color/black" />
 
         <Button
             android:id="@+id/btn1"
-            style="@style/ButtonStyle" />
+            style="@style/ButtonStyle"
+            android:background="#CDCDCD" />
 
         <Button
             android:id="@+id/btn2"
-            style="@style/ButtonStyle" />
+            style="@style/ButtonStyle"
+            android:background="@android:color/black" />
 
         <Button
             android:id="@+id/btn3"
-            style="@style/ButtonStyle" />
+            style="@style/ButtonStyle"
+            android:background="#CDCDCD" />
 
         <Button
             android:id="@+id/btn4"
-            style="@style/ButtonStyle" />
+            style="@style/ButtonStyle"
+            android:background="@android:color/black" />
 
         <Button
             android:id="@+id/btn5"
-            style="@style/ButtonStyle" />
+            style="@style/ButtonStyle"
+            android:background="#CDCDCD" />
 
         <Button
             android:id="@+id/btn6"
-            style="@style/ButtonStyle" />
+            style="@style/ButtonStyle"
+            android:background="@android:color/black" />
 
         <Button
             android:id="@+id/btn7"
-            style="@style/ButtonStyle" />
+            style="@style/ButtonStyle"
+            android:background="#CDCDCD" />
 
         <Button
             android:id="@+id/btn8"
-            style="@style/ButtonStyle" />
+            style="@style/ButtonStyle"
+            android:background="@android:color/black" />
     </GridLayout>
 </RelativeLayout>
