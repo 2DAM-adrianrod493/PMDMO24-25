@@ -16,59 +16,97 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78aaa954-7342-46ed-829c-0ffdf27ed4d7" name="Changes" comment="CommitTela">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/deploymentTargetSelector.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/migrations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/migrations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/proguard-rules.pro" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/iesmm/pmdmo/pmdm_t2_myweatherapp/pmdm_t2_myweatherapp/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/androidTest/java/iesmm/pmdmo/pmdm_t2_myweatherapp/pmdm_t2_myweatherapp/ExampleInstrumentedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/iesmm/pmdmo/pmdm_t2_myweatherapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/java/iesmm/pmdmo/pmdm_t2_myweatherapp/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/lluvia.png" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/drawable/lluvia.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/nieve.png" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/drawable/nieve.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/nublado.png" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/drawable/nublado.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/soleado.png" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/drawable/soleado.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/iesmm/pmdmo/pmdm_t2_myweatherapp/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/test/java/iesmm/pmdmo/pmdm_t2_myweatherapp/ExampleUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/gradle/libs.versions.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/settings.gradle.kts" afterDir="false" />
+    <list default="true" id="6bcbfc54-2ce8-4bf9-9c77-82105d160410" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../$RECYCLE.BIN/S-1-5-21-3380937799-349305291-64148762-4606/desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2DAM-ACDAT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2DAM-PMDMO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ACDAT24-25" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PHP-PROJECTS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/java/iesmm/pmdmo/pmdm_t2_myweatherapp/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PSP24-25" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/app/src/androidTest/java/iesmm/pmdmo/pmdmo_t2_02/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/app/src/androidTest/java/iesmm/pmdmo/pmdmo_t2_02/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/java/iesmm/pmdmo/pmdmo_t2_02/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/java/iesmm/pmdmo/pmdmo_t2_02/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/values-en/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/values-en/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/xml/backup_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/app/src/test/java/iesmm/pmdmo/pmdmo_t2_02/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/app/src/test/java/iesmm/pmdmo/pmdmo_t2_02/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/gradle/libs.versions.toml" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/gradle/libs.versions.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PMDMO-T2-02/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/PMDMO-T2-02/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/PROYECTOS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pmdm-t2-myweatherapp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/.idea/migrations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/androidTest/java/iesmm/pmdmo/pmdmo_t2_02/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/java/iesmm/pmdmo/pmdmo_t2_02/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/values-en/midiccionario.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/values-en/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/values/midiccionario.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/app/src/test/java/iesmm/pmdmo/pmdmo_t2_02/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pmdm-t2-myweatherapp/PMDMO-T2-02/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +116,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\adria\.android\avd\Pixel_4_XL_API_35.avd)]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=C:\Users\2DAM-adrianrod493\.android\avd\Pixel_4_API_35.avd)]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -87,109 +125,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;2DAM-adrianrod493&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "2DAM-adrianrod493"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/2DAM-adrianrod493/PMDMO24-25.git&quot;,
-    &quot;accountId&quot;: &quot;b151f91e-777f-42c6-a608-7aeab773e260&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/2DAM-adrianrod493/PMDMO24-25.git",
+    "accountId": "a4081383-7896-4c57-8907-5927568f2c78"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2nF7Chv0a8nhhwGmDYOQEfI1SCd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2nCmiUrEx1lNNl7K0nSYUOb2CqW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Android App.MainActivity.executor": "Run",
-    "Android App.app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "<unknown>",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/adria/StudioProjects/PMDMO24-25/pmdm-t2-myweatherapp"
+    "last_opened_file_path": "D:/PMDMO24-25/pmdm-t2-myweatherapp",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>
-  <component name="RunManager" selected="Android App.MainActivity">
-    <configuration name="MainActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
-      <module name="pmdm-t2-myweatherapp.app.main" />
-      <option name="DEPLOY" value="true" />
-      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
-      <option name="DEPLOY_AS_INSTANT" value="false" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="PM_INSTALL_OPTIONS" value="" />
-      <option name="ALL_USERS" value="false" />
-      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
-      <option name="CLEAR_APP_STORAGE" value="false" />
-      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
-      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
-      <option name="MODE" value="specific_activity" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
-      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="DEBUGGER_TYPE" value="Auto" />
-      <Auto>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Auto>
-      <Hybrid>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Hybrid>
-      <Java>
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Java>
-      <Native>
-        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
-        <option name="SHOW_STATIC_VARS" value="true" />
-        <option name="WORKING_DIR" value="" />
-        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
-        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
-        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
-        <option name="DEBUG_SANDBOX_SDK" value="false" />
-      </Native>
-      <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
-        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
-        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
-        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-      </Profilers>
-      <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="iesmm.pmdmo.pmdm_t2_myweatherapp.MainActivity" />
-      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
-      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="pmdm-t2-myweatherapp.app.main" />
       <option name="DEPLOY" value="true" />
@@ -256,34 +227,16 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Android App.MainActivity" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="78aaa954-7342-46ed-829c-0ffdf27ed4d7" name="Changes" comment="" />
-      <created>1728556845146</created>
+      <changelist id="6bcbfc54-2ce8-4bf9-9c77-82105d160410" name="Changes" comment="" />
+      <created>1728485558477</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1728556845146</updated>
+      <updated>1728485558477</updated>
     </task>
-    <task id="LOCAL-00001" summary="CommitTela">
-      <option name="closed" value="true" />
-      <created>1728560544006</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1728560544006</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="CommitTela" />
-    <option name="LAST_COMMIT_MESSAGE" value="CommitTela" />
   </component>
 </project>
