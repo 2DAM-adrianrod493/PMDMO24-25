@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Título -->
+    <string name="app_name">MyWeather App</string>
+
+    <!-- Temperaturas -->
+    <string name="temperatures">Temperaturas</string>
+
+    <!-- Días -->
+    <string name="day_7">Dic 7</string>
+    <string name="day_8">Dic 8</string>
+    <string name="day_9">Dic 9</string>
+    <string name="day_10">Dic 10</string>
+    <string name="day_11">Dic 11</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDo">#FF0000</color> <!-- Rojo -->
+    <color name="colorRe">#FF7F00</color> <!-- Naranja -->
+    <color name="colorMi">#FFFF00</color> <!-- Amarillo -->
+    <color name="colorFa">#00FF00</color> <!-- Verde -->
+    <color name="colorSol">#0000FF</color> <!-- Azul -->
+    <color name="colorLa">#4B0082</color> <!-- Morado -->
+    <color name="colorSi">#9400D3</color> <!-- Lila -->
+</resources>

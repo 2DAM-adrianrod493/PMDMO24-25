@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#FFFFFF">
+
+    <!-- Botones para cada nota musical -->
+    <Button
+        android:id="@+id/btn_do"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:text="DO"
+        android:background="@color/colorDo"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/btn_re"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:text="RE"
+        android:background="@color/colorRe"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/btn_mi"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:text="MI"
+        android:background="@color/colorMi"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/btn_fa"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:text="FA"
+        android:background="@color/colorFa"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/btn_sol"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:text="SOL"
+        android:background="@color/colorSol"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/btn_la"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:text="LA"
+        android:background="@color/colorLa"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/btn_si"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:text="SI"
+        android:background="@color/colorSi"
+        android:textColor="#FFFFFF"/>
+
+    <Button
+        android:id="@+id/btn_show_score"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mostrar Puntuación"
+        android:background="#FF5722"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="16dp"/>
+</LinearLayout>
