@@ -35,14 +35,12 @@ public class JuegoTresEnRaya {
      * Limpia el tablero de todas las X y O
      */
     public void limpiarTablero() {
-        // Resetea todos las casillas
         for (int i = 0; i < DIM_TABLERO; i++)
             tablero[i] = BLANCO;
     }
 
     /**
-     * Pone una ficha del tipo en la casilla correspondiente del tablero. La
-     * casilla debe estar en BLANCO y dentro de los límites del tablero.
+     * Pone una ficha del tipo en la casilla correspondiente del tablero.
      *
      * @param ficha   - JUGADOR ó MÁQUINA
      * @param casilla - La ubicación de la casilla del tablero (0-[DIM_TABLERO-1])
@@ -140,12 +138,10 @@ public class JuegoTresEnRaya {
      * @return El mejor movimiento que puede realizar MAQUINA.
      */
     public int getMovimientoMaquina() {
-        // NIVEL DE DIFICULTAD 1: MOVIMIENTO ALEATORIO
         return getMovimientoMaquinaAleatorio();
     }
 
     private int getMovimientoMaquinaAleatorio() {
-        // Generación de una casilla aleatoria
         int casilla;
 
         do {
@@ -160,38 +156,5 @@ public class JuegoTresEnRaya {
         return tablero[0] + "|" + tablero[1] + "|" + tablero[2] + "\n"
                 + tablero[3] + "|" + tablero[4] + "|" + tablero[5] + "\n"
                 + tablero[6] + "|" + tablero[7] + "|" + tablero[8];
-    }
-
-    public static void main(String[] params) {
-        JuegoTresEnRaya juego = new JuegoTresEnRaya();
-
-        // SIMULACIÓN DEL JUGADOR: Hacer diagonal de X (0-4-8)
-
-        // Coloca ficha: JUGADOR
-        if (!juego.moverFicha('X', 0))
-            System.out.println("CASILLA 0 OCUPADA");
-
-        // Coloca ficha: MÁQUINA
-        juego.moverFicha('O', juego.getMovimientoMaquina());
-        System.out.println("ESTADO: " + juego.comprobarGanador());
-        System.out.println("NUEVO TABLERO: \n" + juego + "\n");
-
-        // Coloca ficha: JUGADOR
-        if (!juego.moverFicha('X', 4))
-            System.out.println("CASILLA 4 OCUPADA");
-
-        // Coloca ficha: MÁQUINA
-        juego.moverFicha('O', juego.getMovimientoMaquina());
-        System.out.println("ESTADO: " + juego.comprobarGanador());
-        System.out.println("NUEVO TABLERO: \n" + juego + "\n");
-
-        // Coloca ficha: JUGADOR
-        if (!juego.moverFicha('X', 8))
-            System.out.println("CASILLA 8 OCUPADA");
-
-        // Coloca ficha: MÁQUINA
-        juego.moverFicha('O', juego.getMovimientoMaquina());
-        System.out.println("ESTADO: " + juego.comprobarGanador());
-        System.out.println("NUEVO TABLERO: \n" + juego + "\n");
     }
 }
