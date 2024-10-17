@@ -1,63 +1,132 @@
-<?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/layout_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@color/black">
 
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black">
+    </FrameLayout>
+
+    <!-- GridLayout para los botones del tablero del Tres en Raya -->
     <GridLayout
         android:id="@+id/gridLayout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:columnCount="3"
-        android:rowCount="3">
+        android:rowCount="3"
+        android:background="@android:color/black"
+        android:layout_margin="16dp">
 
-        <Button
-            android:id="@+id/btn0"
-            style="@style/ButtonStyle"
-            android:background="@android:color/black" />
-
+        <!-- Botones para el juego, identificados como btn1, btn2, etc. -->
         <Button
             android:id="@+id/btn1"
             style="@style/ButtonStyle"
-            android:background="#CDCDCD" />
+            android:text="@string/one"
+            android:background="@android:color/darker_gray"/>
 
         <Button
             android:id="@+id/btn2"
             style="@style/ButtonStyle"
-            android:background="@android:color/black" />
+            android:text="@string/two"
+            android:background="@android:color/darker_gray"/>
 
         <Button
             android:id="@+id/btn3"
             style="@style/ButtonStyle"
-            android:background="#CDCDCD" />
+            android:text="@string/three"
+            android:background="@android:color/darker_gray"/>
 
         <Button
             android:id="@+id/btn4"
             style="@style/ButtonStyle"
-            android:background="@android:color/black" />
+            android:text="@string/four"
+            android:background="@android:color/darker_gray"/>
 
         <Button
             android:id="@+id/btn5"
             style="@style/ButtonStyle"
-            android:background="#CDCDCD" />
+            android:text="@string/five"
+            android:background="@android:color/darker_gray"/>
 
         <Button
             android:id="@+id/btn6"
             style="@style/ButtonStyle"
-            android:background="@android:color/black" />
+            android:text="@string/six"
+            android:background="@android:color/darker_gray"/>
 
         <Button
             android:id="@+id/btn7"
             style="@style/ButtonStyle"
-            android:background="#CDCDCD" />
+            android:text="@string/seven"
+            android:background="@android:color/darker_gray"/>
 
         <Button
             android:id="@+id/btn8"
             style="@style/ButtonStyle"
-            android:background="@android:color/black" />
+            android:text="@string/eight"
+            android:background="@android:color/darker_gray"/>
+
+        <Button
+            android:id="@+id/btn9"
+            style="@style/ButtonStyle"
+            android:text="@string/nine"
+            android:background="@android:color/darker_gray"/>
     </GridLayout>
+
+    <!-- Sección de puntuaciones -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/gridLayout"
+        android:layout_marginTop="16dp"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/textJugador"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jugador: 0"
+            android:textSize="18sp"
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/gray"
+            android:background="@color/dark_gray"/>
+
+        <TextView
+            android:id="@+id/textPartidas"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Partidas: 0"
+            android:textSize="18sp"
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/gray"
+            android:background="@color/dark_gray"/>
+
+        <TextView
+            android:id="@+id/textMaquina"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Máquina: 0"
+            android:textSize="18sp"
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/gray"
+            android:background="@color/dark_gray"/>
+    </LinearLayout>
+
+    <!-- Botón para pausar/reanudar la música de fondo -->
+    <ImageButton
+        android:id="@+id/btnPauseMusic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="16dp"
+        android:src="@android:drawable/ic_media_pause"
+        android:contentDescription="@string/pause_music_desc" />
 </RelativeLayout>

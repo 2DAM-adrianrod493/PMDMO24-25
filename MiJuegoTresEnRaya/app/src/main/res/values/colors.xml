@@ -1,4 +1,9 @@
 <resources>
-    <color name="gray">#CDCDCD</color> <!-- Asegúrate de que este color esté definido -->
+    <color name="gray">#CDCDCD</color>
     <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#2196F3</color>
+    <color name="red">#F44336</color>
+    <color name="green">#4CAF50</color>
+    <color name="dark_gray">#474B4E</color>
 </resources>
